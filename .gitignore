@@ -2,4 +2,6 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 .env
-.DS_Store
+data/*.zip
+data/genres_original/
+data/images_original/
