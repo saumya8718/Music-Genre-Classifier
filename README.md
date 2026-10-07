@@ -31,7 +31,3 @@ raw audio, and a Random Forest classifier learns which patterns match each genre
 ## Limitations
 The demo picks songs from the dataset, and the model was trained on most of them,
 so predictions on those songs look better than they would on brand-new music.
-
-## Future improvements
-- Upload your own audio file using `librosa`
-- Try other models (SVM, XGBoost) and tune them
