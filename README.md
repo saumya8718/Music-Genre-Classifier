@@ -2,7 +2,7 @@
 
 A machine learning app that predicts a song's genre from its audio features.
 
-![App screenshot](C:\Users\ramas\OneDrive\Documents\OneDrive\Pictures\Screenshots\Screenshot 2026-10-08 005207.png)
+![App screenshot](scrt.png)
 
 ## About
 The model is trained on the GTZAN dataset (1,000 30-second clips across 10 genres).
