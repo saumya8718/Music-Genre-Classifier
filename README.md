@@ -22,12 +22,6 @@ raw audio, and a Random Forest classifier learns which patterns match each genre
 - `models/`: saved model
 - `data/`: dataset
 
-## How to run
-1. Clone the repo
-2. `pip install -r requirements.txt`
-3. Download `features_30_sec.csv` from the GTZAN dataset on Kaggle into `data/`
-4. `streamlit run app.py`
-
 ## Limitations
 The demo picks songs from the dataset, and the model was trained on most of them,
 so predictions on those songs look better than they would on brand-new music.
